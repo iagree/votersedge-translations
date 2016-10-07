@@ -150,8 +150,8 @@ const ballotOverviewTranslation = {
       area: 'Find other elections for this area.',
       zip:'Find other elections for this zip code.',
     },
-    choices_progress_percentage_prefix: 'You are',
-    choices_progress_percentage_suffix: 'of the way through your ballot.',
+    choices_progress_percentage_prefix: 'Lleva el',
+    choices_progress_percentage_suffix: 'de su boleta electoral.',
     choices_completed_label: 'Completed',
     choices_label: "<p>Review the candidates and measures on your ballot, mark your choices, and then send your list to your email or printer, or copy the link to your phone.</p>", // Translate
     noPollingLocationLabel: "Ubicación del lugar de votación y horario", // Translate
