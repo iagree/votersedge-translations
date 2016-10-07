@@ -140,11 +140,11 @@ const ballotOverviewTranslation = {
     choose_voting_info: "Información de la votación", // Translate
     choose_voting_info_label: "Obtenga información sobre <strong>cuándo, dónde y cómo votar</strong>", // Translate
     choices: "Mi lista", // Translate
-    choices_get_ballot: 'Want to keep track of you ballot choices and make a list to take to the polls?',
-    choices_learn_more: 'Learn more',
-    choices_get_started: 'get started',
-    choices_get_started_separator: 'or',
-    other_elections_search_label: 'Other Elections',
+    choices_get_ballot: '¿Desea mantener un registro de sus opciones de boleta electoral y hacer una lista para llevarla a las urnas?',
+    choices_learn_more: 'Obtenga más información',
+    choices_get_started: 'comience',
+    choices_get_started_separator: 'o',
+    other_elections_search_label: 'Otras elecciones',
     other_elections_search_link_labels: {
       address: 'Find other elections for this address.',
       area: 'Find other elections for this area.',
